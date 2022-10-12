@@ -13,7 +13,8 @@ function App() {
   return (
     <div className="App">
       <Container>
-        <h1 className="text-center mt-4">Contact Keeper</h1>
+        <h1 className="text-center mt-4">Contact Filter</h1>
+        <h6 className="text-center">fake information</h6>
         <Form>
           <InputGroup className="my-3">
             <Form.Control
